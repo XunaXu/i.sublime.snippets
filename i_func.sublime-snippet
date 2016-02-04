@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+$0: function() {
+	$1
+   return $2;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>func.i</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+	<description>var: func</description>
+</snippet>
