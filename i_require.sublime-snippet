@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+var $0 = require('./$0');
+]]></content>
+<tabTrigger>require.i</tabTrigger>
+<description>var require</description>
+<scope>source.js</scope>
+</snippet>
