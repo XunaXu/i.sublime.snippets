@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-console.log(${0:""}<);
+export default $1
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>log.i</tabTrigger>
+	<tabTrigger>export.default.i.es6</tabTrigger>
 	<scope>source.js</scope>
-	<description>console.log</description>
+	<description>export default es6</description>
 </snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for (let $0 = ${1:0}; $0 < ${2: a.length}; $0++) {
+	$3
+}
+]]></content>
+	<tabTrigger>for.i.es6</tabTrigger>
+	<scope>source.js</scope>
+	<description>for with let es6</description>
+</snippet>

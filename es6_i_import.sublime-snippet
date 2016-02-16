@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import $1 from '${2:$1}'
+]]></content>
+	<tabTrigger>import.module.i.es6</tabTrigger>
+	<scope>source.js</scope>
+	<description>import module es6</description>
+</snippet>

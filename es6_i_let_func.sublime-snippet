@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+let $1 = {$2}
+]]></content>
+	<tabTrigger>let.func.i.es6</tabTrigger>
+	<scope>source.js</scope>
+	<description> let a function es6</description>
+</snippet>
