@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+{
+    "name": "${1:package name}"
+  , "version": "0.0.1"
+  , "description": "${2:package description}"
+  , "keywords": ["${3:keywords}"]
+  , "author": "xuna xu <xunaxu@gmail.com>"
+  , "repository": {"type": "git", "url": "https://github.com/xunaxu/${4:module name}"}
+  , "scripts": {"build": "${5:build}",
+    "start": "node devServer.js",
+    "lint": "eslint src"}
+  , "devDependencies": {}
+  , "dependencies": {}
+  , "license": "CC0-1.0"
+}
+]]></content>
+  <tabTrigger>package.json</tabTrigger>
+</snippet>

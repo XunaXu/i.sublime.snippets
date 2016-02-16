@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+var $1 = { 
+	$2
+};
+
+module.exports = $1;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>module.simple.i</tabTrigger>
+	<description>simple module</description>
+	<scope>source.js</scope>
+</snippet>

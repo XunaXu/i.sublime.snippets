@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-var $0 = require('./$0');
+var $1 = require('${2:./$1}');
 ]]></content>
 <tabTrigger>require.i</tabTrigger>
 <description>var require</description>
