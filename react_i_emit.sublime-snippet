@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.emit($0)
+]]></content>
+	<tabTrigger>emit.i</tabTrigger>
+	<scope>source.js</scope>
+	<description>react: this.emit()</description>
+</snippet>
