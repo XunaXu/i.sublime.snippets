@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"Babel Snippets",
+		"CodeFormatter",
+		"Color Highlighter",
+		"CSS Colors",
+		"CSScheme",
+		"Emmet",
+		"ES6-Toolkit",
+		"GitHub Flavored Markdown Preview",
+		"GitHubinator",
+		"jsfmt",
+		"JsonTree",
+		"LESS",
+		"LiveStyle",
+		"Package Control",
+		"React ES6 Snippets",
+		"ReactJS",
+		"Sass"
+	]
+}

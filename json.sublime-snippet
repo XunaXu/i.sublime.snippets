@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{
+	"$1": "$2",
+	"$3": "$4"
+}
+]]></content>
+	<tabTrigger>json.obj.i</tabTrigger>
+	<description>json</description>
+</snippet>
